@@ -14,10 +14,10 @@ export default new Router({
       path: '/test',
       component: resolve => require(['@/view/test'], resolve)
     },
-    {
-      path: '/tabletest',
-      component: resolve => require(['@/view/tabletest'], resolve)
-    },
+    // {
+    //   path: '/tabletest',
+    //   component: resolve => require(['@/view/tabletest'], resolve)
+    // },
     {
       path: '/login',
       component: resolve => require(['@/view/login'], resolve)
