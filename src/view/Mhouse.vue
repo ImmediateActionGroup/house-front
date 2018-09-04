@@ -103,7 +103,7 @@
 
 
 <script>
-  import {PopupRadio,Flexbox, FlexboxItem,XInput,Confirm,LoadMore,Loading, Tab, TabItem, Sticky, Divider, XButton, Swiper, SwiperItem,FormPreview,Scroller } from 'vux'
+  import {PopupRadio,Flexbox, FlexboxItem,XInput,Confirm,LoadMore,Loading, Tab, TabItem, Sticky, Divider, XButton, Swiper, SwiperItem,FormPreview,Scroller,TransferDom } from 'vux'
   export default {
     components: {
       PopupRadio,
